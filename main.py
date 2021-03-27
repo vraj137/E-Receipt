@@ -1,6 +1,5 @@
 """
 Name: Vraj Bhavsar
-Date: October 04, 2020
 
 This program asks the user for eight different items on the shopping list 
 (Name of the item, quantity, price and the discount applied. Then prints out a reciept
